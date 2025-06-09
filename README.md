@@ -25,7 +25,7 @@ My learning journey has been hands-on and project-driven, focused on building re
 - **Hacktiv8 Full Time Data Science Bootcamp**
 Core Skills Developed: Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, and Feature Engineering
 
-### Thanks for stopping by! Feel free to explore my projects or reach out—I'm always up for collaborations and new ideas in the world of data science.
+Thanks for stopping by! Feel free to explore my projects or reach out—I'm always up for collaborations and new ideas in the world of data science.
 
   
 
