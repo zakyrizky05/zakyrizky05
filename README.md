@@ -8,6 +8,14 @@ I'm Zaky Rizky Akbar, an aspiring Data Scientist and Machine Learning Engineer w
 
 My learning journey has been hands-on and project-driven, focused on building regression and classification models, as well as exploring unsupervised learning techniques like clustering. Recently, I’ve been diving into deep learning, working on projects involving computer vision and natural language processing (NLP). I approach each project not just as a technical challenge, but as a way to develop meaningful solutions and sharpen my understanding of how data can be applied effectively.
 
+🛠️ Skills
+
+- **Language**: Python
+- **Data Analysis and Visualization**: Tableau, Pandas, Matplotlib, Kibana
+- **Database Management**: PostgreSQL
+- **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, YOLO
+- **Other Skills**: ETL Development, Feature Engineering, Data Wrangling 
+
 
 
 
